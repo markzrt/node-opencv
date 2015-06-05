@@ -5,7 +5,7 @@
   "dependencies": {
     "buffers": "0.1.1",
     "nan": "^1.8.4",
-    "node-pre-gyp": "^0.6.4"
+    "node-pre-gyp": "^0.6.7"
   },
   "version": "3.0.1",
   "devDependencies": {
